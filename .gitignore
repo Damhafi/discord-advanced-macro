@@ -1,0 +1,13 @@
+# Configurações de Posição / Macros
+*.json
+posicoes.json
+posicoes_advanced.json
+
+# Diretórios virtuais do Python (se você vier a usar)
+venv/
+env/
+.venv/
+
+# Caches do Python
+__pycache__/
+*.pyc
